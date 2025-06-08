@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/majoportillo/Card-Social-Links.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://rococo-halva-a2343c.netlify.app/)
 
 ## My process
 
